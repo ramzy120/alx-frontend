@@ -1,0 +1,12 @@
+[data-section-theme="dark"] .footer-address {
+    color: var(--text-color);
+}
+
+[data-section-theme="dark"] .social-link {
+    display: block;
+}
+
+[data-section-theme="dark"] .social-link svg {
+    fill: var(--text-color);
+}
+
